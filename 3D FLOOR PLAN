@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+     <title>
+       3D FLOOR PLAN
+     </title>
+     
+     <style>
+        Body{
+            background-color:darkorange;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           
+        }
+        nav{
+            margin-left: 450px;
+        }
+        img{
+            background-color: grey;
+        }
+     </style>
+     <body>
+        <nav id="nav">
+        <h1>3D FLOOR PLAN</h1>
+    <img src="https://github.com/Khael0419/multimedia.io/blob/main/3d%20floor%20plan.png" alt="Uniform Polo Shirt" width="500px" height="400px">
+      </nav>
+    </body>
+<a href="index.html">Return to Homepage</a>
+</html>
